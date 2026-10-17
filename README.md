@@ -1,9 +1,11 @@
 # Accords — support de cours
 
-Quiz de degrés pour les accords Maj7 et Min7, en position fondamentale ou renversée, Close ou Drop 2.
+Quiz de degrés pour les accords Maj7, Min7 et 7, en position fondamentale ou renversée, Close ou Drop 2.
 
 - **Practice** : afficher une question, révéler la réponse, passer à la suivante.
 - **Match** : deux équipes, participants numérotés, nombre de tours et chrono réglables. Un dépassement de temps vaut zéro point.
+
+Après la réponse, **Jouer l’arpège** fait entendre les notes du grave vers l’aigu ; **Jouer l’accord** les joue simultanément. Les exemples sont en Do, dans le renversement et la disposition affichés.
 
 Les degrés sont donnés du grave vers l’aigu. Le renversement décrit la basse finale, y compris en Drop 2.
 
